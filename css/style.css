@@ -68,7 +68,7 @@ hr {
 }
 #menu a.navbar-brand {
 	font-size: 20px;
-	color: #444;
+	color: rgb(19, 18, 18);
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -78,7 +78,7 @@ hr {
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
-	color: #444;
+	color: #0ba2db;
 	font-weight: 400;
 	font-size: 15px;
 	letter-spacing: 1px;
@@ -132,7 +132,7 @@ hr {
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) no-repeat center center;
+	background: url(../img/bg-artistic.png) no-repeat center center;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -151,7 +151,7 @@ hr {
 	margin-bottom: 10px;
 }
 .intro p {
-	color: #444;
+	color: rgb(151, 196, 226);
 	font-size: 28px;
 	margin-top: 10px;
 	margin-bottom: 40px;
